@@ -1,5 +1,5 @@
-kode pemerograman ()
-```
+# kode pemerograman ()
+```python
 daftar_kontak = {
     "Ari": "081267888",
     "Dina": "0876777776"
@@ -39,3 +39,6 @@ del daftar_kontak["Dina"]
 print(f"Dictionary setelah menghapus Dina: {daftar_kontak}")
 ```
 # hasil otput
+<img width="1433" height="853" alt="Screenshot 2025-11-23 081345" src="https://github.com/user-attachments/assets/83962eb5-e2ad-4efa-8d77-b088b7dfaa90" />
+
+
